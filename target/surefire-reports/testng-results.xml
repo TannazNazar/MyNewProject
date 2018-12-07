@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12908" started-at="2018-12-07T00:10:06Z" finished-at="2018-12-07T00:10:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12908" started-at="2018-12-07T00:10:06Z" finished-at="2018-12-07T00:10:19Z">
+      <class name="com.syntax.practice.BaseClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.practice.BaseClass@79be0360]" name="setUp" is-config="true" duration-ms="9684" started-at="2018-12-07T00:10:06Z" finished-at="2018-12-07T00:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.practice.BaseClass@79be0360]" name="setUp" duration-ms="3195" started-at="2018-12-07T00:10:16Z" finished-at="2018-12-07T00:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.syntax.practice.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
